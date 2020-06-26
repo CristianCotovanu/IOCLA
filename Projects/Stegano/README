@@ -1,11 +1,1 @@
-CRISTIAN COTOVANU 324CD
 
-Tema 2 IOCLA
-
-Task 4
-Mai intai adaug deplasamentul initial si anume de 4 ori id-ul primit ca parametru
-Apoi se face parcurgerea fiecarui caracter din mesajul ce trebuie criptat
-shiftandu-se fiecare bit din el apoi facandu-se verificarea carry flag-ului 
-ce va fi setat din shiftare si efecutandu-se setarea corespunzatoare pe imagine.
-
-Task 5
